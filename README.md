@@ -1,4 +1,4 @@
-###👋 Olá! Eu sou o Bruno Back
+### 👋 Olá! Eu sou o Bruno Back
 
 - 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Atualmente estou aprendendo GitHub
