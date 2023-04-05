@@ -1,4 +1,4 @@
-### 👋 Olá, Eu sou o Bruno Back! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻
+### 👋🏻 Olá, Eu sou o Bruno Back! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻
 
 - 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Atualmente estou aprendendo GitHub
