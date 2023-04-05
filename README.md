@@ -1,7 +1,9 @@
 ### 👋🏻 Olá, Eu sou o Bruno Back! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻
 
-- 🔭 Atualmente estou trabalhando com front-end
-- 🌱 Atualmente estou aprendendo GitHub
+ #desenvolvimentoweb #wordpress #joomla #marketingdigital #designer
+
+- 🔭 Atualmente estou trabalhando com desenvolvimento de sites.
+- 🌱 Atualmente estou aprendendo GitHub.
 
 ##
 
