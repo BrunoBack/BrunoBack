@@ -4,6 +4,10 @@
 - 🌱 Atualmente estou aprendendo GitHub
 - 💬 Pergunte-me sobre alguma coisa ...
 
+### 🌐 Redes Sociais:
+
+https://www.facebook.com/bruno.back.562
+
 ### 📚 Github Stats:
 
 ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=brunoback&show_icons=true&theme=tokyonight#gh-light-mode-only)
