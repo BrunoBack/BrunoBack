@@ -2,12 +2,12 @@
 
 - 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Atualmente estou aprendendo GitHub
-- 💬 Pergunte-me sobre alguma coisa ...
 
 ##
 
 ### 🌐 Redes Sociais:
 
+<a href = "mailto:brunomarquesback@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/bruno.back.562" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 
 ##
