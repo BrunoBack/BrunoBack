@@ -17,6 +17,8 @@
 ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=brunoback&show_icons=true&theme=tokyonight#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight#gh)
 
-##
-
-###
+<div align="center" style="display: inline_block"><br>
+            <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+            <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+</div>            
+          
