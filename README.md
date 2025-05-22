@@ -1,23 +1,19 @@
-### 👋🏻 Olá, Eu sou o Bruno Back! 🌱 Seja bem vindo(a) ao meu perfil GitHub! 👋🏻
+# 👋 Olá, eu sou o Bruno Back!
 
- #desenvolvimentoweb #wordpress #joomla #marketingdigital #designer
-
-- 🔭 Atualmente estou trabalhando com desenvolvimento de sites.
-- 🌱 Atualmente estou aprendendo GitHub.
-
-##
-
-### 🌐 Redes Sociais:
-
-<a href="https://www.facebook.com/bruno.back.562" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/bruno.back84" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-##
+Desenvolvedor Web | Full Stack | Foco em soluções práticas e eficientes para web.
 
 ### 📚 Github Stats:
 
-![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=brunoback&show_icons=true&theme=tokyonight#gh-light-mode-only)
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BrunoBack&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight#gh)
+
+## 🧑‍💻 Sobre mim
+
+- 🌍 Local: Itaara, RS, Brasil  
+- 💼 Atualmente trabalhando com desenvolvimento de sites.  
+- 🛠️ Tecnologias principais: HTML, CSS, JavaScript, PHP, WordPress, WooCommerce.  
+- 🎯 Foco em desenvolvimento de sites institucionais, landing pages e sistemas web.  
+- 📚 Estudando: Git, GitHub, TypeScript e boas práticas de Clean Code.
 
 <div align="center" style="display: inline_block"><br>
             <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
@@ -31,27 +27,10 @@
             
 </div>
 
-##
+### 🌐 Redes Sociais:
 
-### 📱 Contato
-<a href = "mailto:brunomarquesback@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>            
-<a href = "https://wa.me/5555991101618?text=*Ol%C3%A1,%20Bruno%20Back!*%0A%0AEncontrei%20seu%20perfil%20no%20*GitHub*%20e%20resolvi%20entrar%20em%20contato%20com%20voc%C3%AA!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
-###########################################################################################
-
-# 👋 Olá, eu sou o Bruno Back!
-
-Desenvolvedor Web | Full Stack | Foco em soluções práticas e eficientes para web.
-
----
-
-## 🧑‍💻 Sobre mim
-
-- 🌍 Local: Itaara, RS, Brasil  
-- 💼 Atualmente trabalhando com desenvolvimento de sites.  
-- 🛠️ Tecnologias principais: HTML, CSS, JavaScript, PHP, WordPress, WooCommerce.  
-- 🎯 Foco em desenvolvimento de sites institucionais, landing pages e sistemas web.  
-- 📚 Estudando: Git, GitHub, TypeScript e boas práticas de Clean Code.
+<a href="https://www.facebook.com/bruno.back.562" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/bruno.back84" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ---
 
@@ -79,16 +58,11 @@ Desenvolvedor Web | Full Stack | Foco em soluções práticas e eficientes para 
 
 - 🌐 [Site Pessoal](https://brunoback.com.br)  
 - 📷 [Instagram](https://instagram.com/seuperfil)  
-- 📘 [Facebook](https://facebook.com/seuperfil)  
-- ✉️ Email: clique no botão acima  
-- 💬 WhatsApp: clique no botão acima
-
----
-
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoBack&show_icons=true&theme=radical)
-
+- 📘 [Facebook](https://facebook.com/seuperfil)
+  
+### 📱 Contato
+<a href = "mailto:brunomarquesback@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>            
+<a href = "https://wa.me/5555991101618?text=*Ol%C3%A1,%20Bruno%20Back!*%0A%0AEncontrei%20seu%20perfil%20no%20*GitHub*%20e%20resolvi%20entrar%20em%20contato%20com%20voc%C3%AA!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 ---
 
 **"Sempre aprendendo, sempre evoluindo!"**
